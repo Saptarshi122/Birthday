@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin: 0;
+    background-color: black;
+}
+.birthday-photo{
+        display: flex;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+}
+.birthday-wish p{
+         font-family: Edu SA Beginner;
+         font-size: 1.5rem;
+         color: lime;
+         padding:30px 30px;
+         margin: 25px 25px;
+}
+.birthday-wish {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}
+.birthday-photo img{
+          height: 350px ;
+          width : 350px;
+          border-radius: 60px;
+          padding: 20px 20px;
+          margin: 15px 15px;
+}
+.birthday-wish i {
+    color: red;
+}
